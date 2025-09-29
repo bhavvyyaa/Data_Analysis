@@ -12,6 +12,8 @@ Analyze a sample sales dataset (`sales_data_sample.csv`) to derive basic insight
 * **Pandas** (Data Manipulation and Analysis)
 * **Matplotlib** (Data Visualization)
 * **Google Colab/Drive** (`gdown` for file handling)
+* **A sales data file sample**
+ (`https://github.com/bhavvyyaa/Data_Analysis/blob/main/sales_data_sample.csv`)
 
 ## Key Analysis & Insights
 
