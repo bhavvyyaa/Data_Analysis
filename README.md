@@ -26,8 +26,3 @@ The core analysis performed was to aggregate total sales revenue across differen
 ### Insight:
 
 The resulting chart clearly shows which product line contributes the most to the total sales revenue, providing a quick, actionable business insight as required by the task.
-
-## Deliverables
-
-* `task_5_sales_analysis.ipynb` (Jupyter/Colab Notebook containing the full code)
-* **Generated Bar Chart** (Visualizing total sales by product line)
